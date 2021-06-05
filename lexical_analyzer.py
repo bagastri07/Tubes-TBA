@@ -1,5 +1,6 @@
 import string
 
+print('Input : ')
 sentence = input()
 inputString = sentence.lower()+'#'
 
