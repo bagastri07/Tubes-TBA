@@ -1,7 +1,6 @@
 import string
 
-print('Input : ')
-sentence = input()
+sentence = input('Masukan String: ')
 inputString = sentence.lower()+'#'
 
 alphabetList = list(string.ascii_lowercase)
