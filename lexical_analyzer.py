@@ -1,6 +1,6 @@
 import string
 
-sentence = 'abah uma wadah kupiah mauiah andak lajak kulahai baisi banyu'
+sentence = input()
 inputString = sentence.lower()+'#'
 
 alphabetList = list(string.ascii_lowercase)
